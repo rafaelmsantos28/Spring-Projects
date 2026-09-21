@@ -1,0 +1,3 @@
+Para executar os containers
+
+# docker-compose up -d
