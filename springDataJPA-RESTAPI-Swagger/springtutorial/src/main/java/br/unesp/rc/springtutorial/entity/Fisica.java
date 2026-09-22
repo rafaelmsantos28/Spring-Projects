@@ -7,7 +7,6 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 import jakarta.persistence.Temporal;
 import jakarta.persistence.TemporalType;
-import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
@@ -17,7 +16,6 @@ import lombok.ToString;
 /**
  * @author Prof. Dr. Frank J. Affonso
  */
-@NotBlank
 @Entity
 @Table(name = "PessoaFisica")
 @Getter
