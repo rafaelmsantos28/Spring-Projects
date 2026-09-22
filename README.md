@@ -12,3 +12,4 @@ Explicação sobre as pastas
 + springDataMongoDB2: Contém o projeto feito em Spring Data MongoDB no VSCode feito do ZERO!
 
 
+Para o projeto springDataJPA lembre de criar um banco chamado `springtutorialjpa`.
