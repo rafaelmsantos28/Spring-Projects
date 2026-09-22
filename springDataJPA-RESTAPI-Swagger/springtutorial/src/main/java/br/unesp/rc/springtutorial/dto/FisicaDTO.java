@@ -27,7 +27,7 @@ public class FisicaDTO {
     private String email;
     private String nome;
     private String cpf;
-    @JsonFormat(pattern = "yyyy-MM-dd'T'HH:mm:ss.SSSZ")
+    @JsonFormat(pattern = "yyyy-MM-dd'T'HH:mm:ss.SSSX")
     private Date dataNascimento;
     private List<EnderecoDTO> endereco;
 
